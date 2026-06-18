@@ -36,7 +36,7 @@ I built and tested this against a simulated TortoiseBot in Gazebo, driving it ar
 
 **The simulation world — a Gazebo room the robot explores**
 
-<img src="images/gazebo_room_world.png" width="650" alt="Gazebo room world"/>
+<img src="src/Screenshot from 2026-06-18 10-17-56.png" width="650" alt="Gazebo room world"/>
 
 <br/><br/>
 
