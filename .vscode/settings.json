@@ -1,0 +1,19 @@
+{
+    "ROS2.distro": "humble",
+    "python.autoComplete.extraPaths": [
+        "/home/shivam/yolo_ws/install/robot_object_detection_yolo/lib/python3.10/site-packages",
+        "/home/shivam/ros2_ws/install/robot_object_detection_yolo/lib/python3.10/site-packages",
+        "/home/shivam/tortoisebot_ws/install/tortoisebot_firmware/local/lib/python3.10/dist-packages",
+        "/home/shivam/tortoisebot_ws/install/tortoisebot_control/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/shivam/yolo_ws/install/robot_object_detection_yolo/lib/python3.10/site-packages",
+        "/home/shivam/ros2_ws/install/robot_object_detection_yolo/lib/python3.10/site-packages",
+        "/home/shivam/tortoisebot_ws/install/tortoisebot_firmware/local/lib/python3.10/dist-packages",
+        "/home/shivam/tortoisebot_ws/install/tortoisebot_control/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
