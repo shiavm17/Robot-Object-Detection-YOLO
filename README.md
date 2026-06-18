@@ -42,13 +42,13 @@ I built and tested this against a simulated TortoiseBot in Gazebo, driving it ar
 
 **Everything running together — Gazebo, teleop control, and live detection side by side**
 
-<img src="images/detection_pipeline_running.png" width="800" alt="Full pipeline running"/>
+<img src="src/Screenshot from 2026-06-18 11-07-29.png" width="800" alt="Full pipeline running"/>
 
 <br/><br/>
 
 **Close-up of the robot's eyes — the live camera feed in rqt_image_view**
 
-<img src="images/rqt_image_view_closeup.png" width="650" alt="rqt_image_view closeup"/>
+<img src="src/Screenshot from 2026-06-18 11-07-58.png" width="650" alt="rqt_image_view closeup"/>
 
 </div>
 
