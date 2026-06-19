@@ -11,6 +11,8 @@
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](#license)
 
 *A robot that can drive, see, and tell you what it's looking at — all in real time.*
+### *My Linkedin: https://www.linkedin.com/in/shivam-rgipt/*
+
 
 </div>
 
