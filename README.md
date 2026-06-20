@@ -357,5 +357,6 @@ MIT — use it, fork it, build on it.
 <div align="center">
 
 *A robotics and computer vision portfolio project — built, broken, and fixed one terminal tab at a time.* 🛠️
+*shivamchaturvedi.in@gmail.com . 23ev3025@rgipt.ac.in*
 
 </div>
